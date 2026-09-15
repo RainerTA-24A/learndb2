@@ -6,6 +6,9 @@ docker compose exec web ls ..
 docker compose exec web pwd
 docker compose exec web bash --Saab mingi bashile ligi
 docker compose stop
-docker compose start  
+docker compose start
 
-docker compose up --build -d or ig docker compose build  ja siis...
+docker compose up --build -d or ig docker compose build ja siis...
+
+15.09.2026
+winget install jetbrains.datagrip
